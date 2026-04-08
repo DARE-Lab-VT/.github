@@ -7,7 +7,7 @@
 *Department of Mechanical Engineering · Virginia Tech · Blacksburg, VA*
 
 [![Website](https://img.shields.io/badge/Website-dare.super.site-861F41?style=flat-square)](https://dare.super.site/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-~80_papers-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-~80_papers-4285F4?style=flat-square&logo=googlescholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?user=hu-rElUAAAAJ&hl=en&oi=ao))
 [![Lab PI](https://img.shields.io/badge/PI-Suyi_Li-E5751F?style=flat-square)](https://dare.super.site/)
 
 </div>
